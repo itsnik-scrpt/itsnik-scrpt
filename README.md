@@ -2,10 +2,6 @@
 
 ###
 
-<img data-importer="image" align="left" height="343" src="https://cdn.jumpshare.com/preview/Je1TyKy8xrWgsce1NHgFk7U7HNrXBJz3auc76wHu9rX3KVqPlv86Y7ez1pZYDiOBBEr0g4QR6BF5gkksxbLb5xwmqhrpxiHZ91byXlE7q2g"  />
-
-###
-
 <h3 data-importer="text" align="center">I build standalone game mechanics, craft custom Minecraft mods/scripts, and design modern interfaces for gaming communities. My work bridges low-level backend logic with clean, user-centric frontend design.</h3>
 
 ###
